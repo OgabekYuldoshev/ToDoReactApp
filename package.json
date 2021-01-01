@@ -16,6 +16,7 @@
     "tailwindcss": "npm:@tailwindcss/postcss7-compat@^2.0.2",
     "web-vitals": "^0.2.4"
   },
+  "homepage": "https://mytodoappn1.herokuapp.com/",
   "scripts": {
     "start": "craco start",
     "build": "craco build",
